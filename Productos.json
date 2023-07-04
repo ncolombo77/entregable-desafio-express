@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Alfajor DDL",
+		"description": "Alfajor de Dulce de Leche",
+		"price": 300,
+		"thumbnail": "path/imagen.png",
+		"code": "ALF001",
+		"stock": 100,
+		"id": 1
+	},
+	{
+		"title": "Alfajor Maizena",
+		"description": "Alfajor de Maizena con dulce de leche",
+		"price": 290,
+		"thumbnail": "path/imagen.png",
+		"code": "ALF002",
+		"stock": 120,
+		"id": 2
+	}
+]
